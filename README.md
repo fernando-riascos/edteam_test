@@ -11,4 +11,4 @@
 
 3. El tercer y urtimo archivo contiene las debidas consultas del problema 
 
-    Por ultimo, gracias por su tiempo :)
+    Por ultimo, gracias por su tiempo
